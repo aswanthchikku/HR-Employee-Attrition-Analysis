@@ -2,50 +2,65 @@
 
 ## About the Project
 
-This project is based on employee data and was created using Microsoft Excel. The main goal is to understand the company's workforce, check how many employees are active or inactive, and analyze salary details.
+This project focuses on analyzing employee data using Microsoft Excel. The aim is to understand the workforce, track employee attrition, and compare salary trends across genders.
 
-I created an Excel dashboard to present the important information in charts and summary metrics, making the data easier to understand.
+I created an Excel dashboard to summarize the data using charts and key metrics, making it easier to understand the overall employee situation.
+
+## Dashboard Preview
+
+![HR Attrition Dashboard](HR_Attrition_Dashboard.png)
 
 ## Tools Used
+
 - Microsoft Excel
 - Pivot Tables
 - Excel Formulas
-- Charts and Dashboard
+- Charts and Data Visualization
 
 ## Dataset Details
 
-The dataset contains employee information with the following columns:
+The dataset contains the following employee details:
 
-- Employee ID and Full Name
-- Department and Manager
-- Age and Gender
-- Joining Date and Exit Date
-- Salary and Bonus
-- Email and Phone Number
-- City and State
-- Performance, Status and Remarks
+- EmpID
+- FullName
+- Department
+- Manager
+- Age
+- Gender
+- JoinDate
+- Salary
+- Bonus
+- Email
+- Phone number
+- City
+- State
+- Performance
+- Status
+- Exit date
+- Remarks
 
-## Dashboard Overview
+## Dashboard Metrics
 
-The dashboard includes the following details:
+The dashboard includes the following metrics:
 
-- Total number of employees
-- Total remarks recorded
-- Active and inactive employees
-- Average employee salary
-- Number of employees who left
-- Average salary by gender
+- **Total Employees** – Total number of employees in the dataset.
+- **Total Remarks** – Number of remarks recorded.
+- **Active Employees** – Employees currently working in the organization.
+- **Inactive Employees** – Employees marked as inactive.
+- **Average Salary** – Average salary of employees.
+- **Employees Left** – Number of employees who have left the organization.
+- **Average Salary by Gender** – Comparison of average salary across genders.
 
-## What I Learned
+## Key Learning
 
-Through this project, I practised organizing employee data in Excel, using formulas and summary calculations, and creating charts to present information clearly. I also learned how an HR dashboard can help in understanding employee status and salary trends.
+Through this project, I practised working with employee data in Excel, summarizing information, creating charts, and building a dashboard. This project helped me understand how data analysis can be used to explore workforce trends and support HR decisions.
 
 ## Project File
 
-The Excel workbook contains the employee data, analysis and dashboard in one file.
+The Excel workbook contains the dataset, analysis, and dashboard.
 
 **File:** `HR_Employee_Attrition_Analysis.xlsx`
 
 ---
 
-*This project was created as part of my Data Analytics learning and portfolio development.*
+*Created as part of my Data Analytics learning and portfolio development.*

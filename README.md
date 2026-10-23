@@ -60,7 +60,7 @@ The dashboard presents key findings through charts and visualizations.
 | `pivot_table.png` | Screenshot of pivot table analysis |
 | `dashboard.png` | Screenshot of the final dashboard |
 
-**Excel Workbook:** [View Data Cleaning and Analysis Workbook](HR_Attrition_Data_Cleaning.xlsx.xlsx)
+**Excel Workbook:** [View Excel Workbook](./HR_Attrition_Data_Cleaning.xlsx)
 
 ## Key Learnings
 
